@@ -32,9 +32,9 @@ npm run dev
 
 ---
 
-### 🚀 Cara Menjalankan
+### Cara Menjalankan
 
-#### 💻 1. Windows / Laptop
+#### 1. Windows / Laptop
 
 1. Pastikan sudah menginstal **Python 3.9+**  
 2. Buka **Command Prompt** atau **PowerShell**  
@@ -45,23 +45,23 @@ npm run dev
    pip install -r requirements.txt
    python main.py
 
-🧮 Omnicalc Pro — Smart Calculation & Analysis Tool
+## Omnicalc Pro — Smart Calculation & Analysis Tool
 
-🎯 Latar Belakang & Ide
+# Latar Belakang & Ide
 Banyak orang, terutama pelajar dan mahasiswa, sering kesulitan melakukan perhitungan kompleks dengan cepat dan efisien. Mulai dari matematika dasar, konversi, hingga simulasi ekonomi kecil. Dari situ saya berpikir untuk membuat Omnicalc Pro, alat kalkulasi multifungsi berbasis Python dan web hybrid, yang bisa digunakan di laptop maupun Android.
 Tujuannya sederhana: mempermudah kehidupan sehari-hari dan kegiatan belajar, sekaligus menunjukkan bagaimana Python bisa menjadi jembatan antara AI dan aplikasi praktis di dunia nyata.
 
-🤖 Fitur Utama
+# Fitur Utama
 Kalkulator Umum & Ilmiah berbasis Python
 UI berbasis HTML/CSS + Script Integration
 Optimized Modular System, bisa dikembangkan ke AI logic
 Docker & Makefile untuk environment yang mudah dijalankan di Windows/Linux/Android (via Termux)
 Ramah untuk pelajar dan tugas akademik
 
-💡 Inspirasi
+# Inspirasi
 Proyek ini terinspirasi dari konsep “multi-tool” digital seperti Google Calculator dan WolframAlpha, tapi saya kembangkan dengan sentuhan personal dan open-source agar bisa digunakan semua orang tanpa biaya.
 
-📦 Struktur Proyek (ringkas)
+# Struktur Proyek (ringkas)
 Omnicalc-Pro/
 ├── main.py
 ├── core/
@@ -76,9 +76,9 @@ Omnicalc-Pro/
 ├── Makefile
 └── README.md
 
-#🚀 Cara Menjalankan
+# Cara Menjalankan
 
-💻 1. Windows / Laptop
+# 1. Windows / Laptop
 1. Pastikan sudah install Python 3.9+
 > Download Python
 2. Buka Command Prompt / PowerShell
@@ -89,7 +89,7 @@ pip install -r requirements.txt
 python main.py
 4. Jika berbasis web, buka file index.html di browser
 
-📱 2. Android (via Termux)
+# 2. Android (via Termux)
 1. Install Termux dari F-Droid / Play Store
 2. Jalankan:
 pkg update && pkg upgrade
@@ -100,12 +100,12 @@ pip install -r requirements.txt
 python main.py
 3. Untuk tampilannya, buka hasil localhost (jika berbasis web) via termux-open-url http://localhost:5000
 
-3. Docker (Opsional)
+# Docker (Opsional)
 Jika ingin test di environment bersih:
 docker build -t omnicalc-pro .
 docker run -it omnicalc-pro
 
-4. Visual Studio Code (GUI Mode)
+# Visual Studio Code (GUI Mode)
 1. Buka folder project di VS Code
 2. Pastikan Python extension aktif
 3. Klik kanan main.py → Run Python File
