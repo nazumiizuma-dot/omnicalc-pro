@@ -114,12 +114,3 @@ docker run -it omnicalc-pro
 💭 Catatan Pribadi
 Saya tidak berencana mengembangkan proyek ini terus-menerus, karena fokus utama saya ada di bidang finance global, ekonomi makro–mikro, dan analisis sistem pasar dunia.
 Proyek ini lebih seperti proof of concept—bahwa saya bisa membuat sesuatu yang fungsional, meskipun bukan prioritas utama saya.
-
-Sedikit spoiler untuk masa depan—berdasarkan analisis saya:
-Menjelang 2030, dunia pelan-pelan masuk ke fase perubahan besar—bukan cuma soal teknologi yang makin canggih, tapi juga tentang gimana manusia harus belajar beradaptasi biar nggak ketinggalan. Banyak pekerjaan yang dulu kelihatan aman sekarang mulai goyah karena otomatisasi dan AI yang terus berkembang. Profesi kayak data entry, kasir, resepsionis, customer service, telemarketer, operator pabrik, admin, akuntan junior, teller bank, sopir, kurir, analis data dasar, HRD operasional, fotografer produk, proofreader, penulis konten ringan, analis hukum pemula, jurnalis berita cepat, desainer grafis standar, editor video basic, call center, sampai guru bimbel online generik —semuanya diprediksi bakal tergantikan hampir 90% oleh sistem otomatis, robot, dan AI yang kerja lebih cepat, murah, dan jarang salah.
-
-Tapi di sisi lain, justru muncul peluang baru buat mereka yang bisa mikir kreatif, peka sama manusia, dan nggak takut bereksperimen. Pekerjaan kayak peneliti AI, analis etika teknologi, pengembang sistem otonom, seniman digital, konselor mental, penulis kreatif, desainer pengalaman (UX), analis strategi global, atau profesi lintas bidang yang butuh human touch—semua itu bakal naik daun karena nggak bisa digantikan mesin.
-
-Sayangnya, kemajuan ini datang bareng sisi gelapnya juga. Ekonomi global makin berat, pertumbuhan melambat, dan utang publik dunia hampir nyentuh total GDP global. Krisis air dan pangan makin terasa—gletser mencair, sawah kekeringan, irigasi kacau—sampai risiko gagal panen naik 4–5 kali lipat. Akibatnya, harga bahan pokok melonjak, kesenjangan sosial makin dalam, dan migrasi besar-besaran mulai nggak bisa dihindarin.
-
-Intinya, 2030 bukan cuma soal siapa yang paling pintar pakai teknologi, tapi siapa yang paling cepat beradaptasi. Dunia bakal terus berubah, dan satu-satunya cara buat tetap bertahan adalah belajar, berevolusi, dan nggak berhenti jadi manusia di tengah dunia yang makin digital.
